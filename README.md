@@ -16,7 +16,12 @@ Some of my recent work includes:
 
 <div align="center">
   
-| ![Metrics](https://metrics.lecoq.io/?template=classic&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&config.timezone=America%2FChicago)
+| ![Metrics](https://metrics.lecoq.io/Landon-Bragg
+?template=classic
+&base=header,activity,community,repositories,metadata
+&lines=false
+&config.timezone=America/Chicago)
+
  | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Landon-Bragg&layout=compact&theme=tokyonight) |
 | --- | --- |
 
