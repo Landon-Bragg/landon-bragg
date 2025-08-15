@@ -1,6 +1,6 @@
 # Hi there 
 
-I'm **Landon Bragg**, a Junior at Baylor University majoring in **Data Science** and minoring in **Business Administration**.  
+I'm **Landon Bragg**, a senior at Baylor University majoring in **Data Science** and minoring in **Business Administration**.  
 I’m passionate about building **data-driven solutions** that combine clean design with solid engineering.
 I focus on blending **machine learning**, **data visualization**, and **data engineering** to create solutions that are both technically sound and user-friendly.  
 
