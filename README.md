@@ -10,13 +10,6 @@ I’m passionate about building **data-driven solutions** that combine clean des
 I focus on blending **machine learning**, **data visualization**, and **data engineering** to create solutions that are both technically sound and user-friendly.  
 Some of my recent work includes:
 
-- ⚡ **Real-time Crypto Arbitrage** app with WebSocket-only exchange data
-- 📈 **Intraday Mean Reversion** trading pipeline with factor rotation
-- 🛰️ **Dust Storm Detection** using MODIS multispectral satellite data
-- 📊 **Email Marketing Open Rate Prediction** with Random Forests
-- 💪 **NLP-based Fitness Recommender** using BERT
-- 🌦️ **NOAA Precipitation & Temperature Analysis** for better weather prediction
-
 ---
 
 ## 📊 GitHub Stats
@@ -43,10 +36,9 @@ Some of my recent work includes:
 
 ## 📫 How to reach me
 
-- **Email:** you@example.com  
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/YOUR-LINKEDIN/)  
-- **GitHub Pages:** [landon-bragg.github.io](https://landon-bragg.github.io)
+- **Email:** ldbragg04@gmail.com
+- **LinkedIn:** [linkedin.com/in/landon-bragg](https://www.linkedin.com/in/landon-bragg/)  
+
 
 ---
 
-> 💡 To show these six pinned repos on your profile, manually pin them from the **Customize your pins** option on your GitHub profile.
