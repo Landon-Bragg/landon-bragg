@@ -8,13 +8,11 @@ I’m passionate about building **data-driven solutions** that combine clean des
 ## Here's a short summary of what I do
 
 I focus on blending **machine learning**, **data visualization**, and **data engineering** to create solutions that are both technically sound and user-friendly.  
-Some of my recent work includes:
+
 
 ---
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://metrics.lecoq.io/Landon-Bragg?template=classic&base=header,activity,community,repositories,metadata&config.timezone=America/Chicago&cache=1800" alt="Metrics" width="49%" />
+  <img src="./metrics.svg" alt="Metrics" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landon-Bragg&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="49%" />
 </div>
 
