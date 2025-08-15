@@ -12,17 +12,6 @@ I focus on blending **machine learning**, **data visualization**, and **data eng
 
 ---
 
-## 📌 Pinned Projects
-
-[![DDoS Attack Classification](https://github-readme-stats.vercel.app/api/pin/?username=Landon-Bragg&repo=DDoS_Attack_Classification&theme=tokyonight)](https://github.com/Landon-Bragg/DDoS_Attack_Classification)
-[![News Impact Tracker](https://github-readme-stats.vercel.app/api/pin/?username=Landon-Bragg&repo=News-Impact-Tracker&theme=tokyonight)](https://github.com/Landon-Bragg/News-Impact-Tracker)
-[![Intraday Mean Reversion](https://github-readme-stats.vercel.app/api/pin/?username=Landon-Bragg&repo=Intraday-Mean-Reversion&theme=tokyonight)](https://github.com/Landon-Bragg/Intraday-Mean-Reversion)
-[![Crypto Arbitrage](https://github-readme-stats.vercel.app/api/pin/?username=Landon-Bragg&repo=Crypto_Arbitrage&theme=tokyonight)](https://github.com/Landon-Bragg/Crypto_Arbitrage)
-[![Guess Who Random Forest](https://github-readme-stats.vercel.app/api/pin/?username=Landon-Bragg&repo=Guess-Who-Random-Forest&theme=tokyonight)](https://github.com/Landon-Bragg/Guess-Who-Random-Forest)
-[![Exploring NOAA Precipitation Types and Temperature Profiles](https://github-readme-stats.vercel.app/api/pin/?username=Landon-Bragg&repo=Exploring-NOAA-Precipitation-Types-and-Temperature-Profiles&theme=tokyonight)](https://github.com/Landon-Bragg/Exploring-NOAA-Precipitation-Types-and-Temperature-Profiles)
-
----
-
 ## 📫 How to reach me
 
 - **Email:** ldbragg04@gmail.com
