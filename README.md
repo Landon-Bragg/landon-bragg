@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 
 
 I'm **Landon Bragg**, a Junior at Baylor University majoring in **Data Science** and minoring in **Business Administration**.  
 I’m passionate about building **data-driven solutions** that combine clean design with solid engineering.
@@ -15,7 +15,7 @@ Some of my recent work includes:
 ## 📊 GitHub Stats
 
 <div align="center">
-
+  https://metrics.lecoq.io/Landon-Bragg?template=classic&base=header,activity,community,repositories,metadata&lines=false&config.timezone=America/Chicago&cache=60
   <img src="https://metrics.lecoq.io/Landon-Bragg?template=classic&base=header,activity,community,repositories,metadata&lines=false&config.timezone=America/Chicago" alt="Metrics" width="49%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Landon-Bragg&layout=compact&theme=tokyonight" alt="Top Langs" width="49%" />
 
