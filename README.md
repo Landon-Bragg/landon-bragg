@@ -2,13 +2,7 @@
 
 I'm **Landon Bragg**, a Junior at Baylor University majoring in **Data Science** and minoring in **Business Administration**.  
 I’m passionate about building **data-driven solutions** that combine clean design with solid engineering.
-
----
-
-## Here's a short summary of what I do
-
 I focus on blending **machine learning**, **data visualization**, and **data engineering** to create solutions that are both technically sound and user-friendly.  
-
 
 ---
 <div align="center">
@@ -33,7 +27,6 @@ I focus on blending **machine learning**, **data visualization**, and **data eng
 
 - **Email:** ldbragg04@gmail.com
 - **LinkedIn:** [linkedin.com/in/landon-bragg](https://www.linkedin.com/in/landon-bragg/)  
-
 
 ---
 
